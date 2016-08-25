@@ -12,4 +12,4 @@ FYI - I am also running the whole object through a sanitizer to remove double es
 - run `node convert.js`
 
 ### Contributing
-I am not looking for contributors for this project. If you have ideas, feel free to get in touch and let me know. Or if you want to suggest something, feel free to create a pull request with your ideas.
+If you have ideas, feel free to get in touch and let me know. Or if you want to suggest something, feel free to create a pull request with your ideas.
