@@ -1,0 +1,10 @@
+{
+  "name": "properties-to-json",
+  "version": "1.0.0",
+  "description": "Node task to convert .properties files to JSON.",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "unzip": "^0.1.11"
+  }
+}
